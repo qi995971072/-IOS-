@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>开播提醒</string>
+			<key>image</key>
+			<string>image_my_remind_18x18_</string>
+			<key>class</key>
+			<string>YCStartedToRemindController</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>票务查询</string>
+			<key>image</key>
+			<string>Image_ticket_18x18_</string>
+			<key>class</key>
+			<string>YCTicketQueryController</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>设置选项</string>
+			<key>image</key>
+			<string>image_my_settings_18x18_</string>
+			<key>class</key>
+			<string>YCSettingViewController</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>手游中心</string>
+			<key>image</key>
+			<string>image_my_recommend_18x18_</string>
+			<key>subtitle</key>
+			<string>玩游戏领鱼丸</string>
+			<key>class</key>
+			<string>YCGameCenterViewController</string>
+		</dict>
+	</array>
+</array>
+</plist>
