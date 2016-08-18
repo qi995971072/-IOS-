@@ -1,5 +1,5 @@
 ###项目截图
-![首页](/Users/xiaochong/Desktop/屏幕快照 2016-08-17 下午10.49.57.png =160x240)![竖屏直播](/Users/xiaochong/Desktop/屏幕快照 2016-08-17 下午10.50.12.png =160x240)
+![首页](http://upload-images.jianshu.io/upload_images/428088-bf74e4bbf5fa9bc5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 =240x160)
 
 ![横屏直播](/Users/xiaochong/Desktop/屏幕快照 2016-08-17 下午10.50.22.png =240x160)
 
